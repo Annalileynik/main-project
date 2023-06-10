@@ -1,17 +1,17 @@
-.app.dark{
---bg-color:darkblue;
---inverted-bg-color:white;
---primary-color:green;
---secondary-color:brightGreen;
---inverted-primary-color:darkblue;
---inverted-secondary-color:brightBlue;
+.app.dark {
+    --bg-color: darkblue;
+    --inverted-bg-color: white;
+    --primary-color: green;
+    --secondary-color: brightgreen;
+    --inverted-primary-color: darkblue;
+    --inverted-secondary-color: brightblue;
 }
 
-.app.light{
---bg-color:white;
---inverted-bg-color:darkblue;
---primary-color:blue;
---secondary-color:lightblue;
---inverted-primary-color:green;
---inverted-secondary-color:brightGreen
+.app.light {
+    --bg-color: white;
+    --inverted-bg-color: darkblue;
+    --primary-color: blue;
+    --secondary-color: lightblue;
+    --inverted-primary-color: green;
+    --inverted-secondary-color: brightgreen;
 }
