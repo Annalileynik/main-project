@@ -17,10 +17,6 @@ const App = () => {
         <AppRouter/>
     </div>
 </Suspense>
-
-
-
-
         </div>
     );
 };
