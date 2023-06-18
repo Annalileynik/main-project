@@ -21,10 +21,8 @@ export function Sidebar({ className }:SidebarProps) {
             data-testid="sidebar"
             className={classNames(cls.Sidebar, { [cls.collapsed]: collapsed }, [className])}
         >
-            <Button
-                data-testid="sidebar-toggle"
-                onClick={onToggle}
-            >
+            {/* eslint-disable-next-line react/jsx-no-bind */}
+            <Button data-testid="sidebar-toggle" onClick={onToggle}>
                 {t('Toggle')}
             </Button>
             <div className={cls.switchers}>
