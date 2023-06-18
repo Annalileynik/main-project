@@ -1,5 +1,6 @@
 import webpack, { RuleSetRule } from 'webpack';
 import path from 'path';
+// @ts-ignore
 import { buildCssLoader } from '../build/loaders/buildCssLoader';
 import { BuildPaths } from '../build/types/config';
 
