@@ -2,16 +2,16 @@
     --bg-color: darkblue;
     --inverted-bg-color: white;
     --primary-color: green;
-    --secondary-color: brightgreen;
+    --secondary-color: brightGreen;
     --inverted-primary-color: darkblue;
-    --inverted-secondary-color: brightblue;
+    --inverted-secondary-color: brightBlue;
 }
 
-.app.light {
+:root {
     --bg-color: white;
     --inverted-bg-color: darkblue;
     --primary-color: blue;
     --secondary-color: lightblue;
     --inverted-primary-color: green;
-    --inverted-secondary-color: brightgreen;
+    --inverted-secondary-color: brightGreen;
 }
