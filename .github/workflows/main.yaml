@@ -5,6 +5,7 @@ on:
  pull_request:
    branches: [ master ]
 jobs:
+ job1:
   pipeline:
     runs-on: ubuntu-latest
     strategy:
