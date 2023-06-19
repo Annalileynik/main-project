@@ -1,17 +1,10 @@
 .app.dark {
-    --bg-color: darkblue;
-    --inverted-bg-color: white;
-    --primary-color: green;
-    --secondary-color: brightGreen;
-    --inverted-primary-color: darkblue;
-    --inverted-secondary-color: brightBlue;
+    --bg-color: #090949;
+    --inverted-bg-color: #e8e8ea;
+    --primary-color: #04ff04;
+    --secondary-color: #049604;
+    --inverted-primary-color: #0232c2;
+    --inverted-secondary-color: #0452ff;
 }
 
-:root {
-    --bg-color: white;
-    --inverted-bg-color: darkblue;
-    --primary-color: blue;
-    --secondary-color: lightblue;
-    --inverted-primary-color: green;
-    --inverted-secondary-color: brightGreen;
-}
+
