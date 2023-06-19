@@ -1,4 +1,5 @@
 /build
 node_modules
-.idea
+.idea/*
+!.idea/rcb-settings.xml
 /storybook-static
