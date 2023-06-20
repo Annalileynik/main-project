@@ -14,7 +14,7 @@ interface SidebarProps {
     className?: string;
 }
 
-export const Sidebar = ({ className }: SidebarProps) => {
+export function Sidebar({ className }: SidebarProps) {
     const [collapsed, setCollapsed] = useState(false);
     const { t } = useTranslation();
 
@@ -68,4 +68,4 @@ export const Sidebar = ({ className }: SidebarProps) => {
             </div>
         </div>
     );
-};
+}
