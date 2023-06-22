@@ -7,5 +7,11 @@
   "Refresh the page": "Обновите страницу",
   "throw error": "бросить ошибку",
   "Toggle": "Переключатель",
-  "short language": "Ru"
+  "short language": "Ru",
+  "Login": "Войти",
+  "Lorem ipsum dolor sit amet, consectetur adipisicing elit": {
+    " Aliquid commodi consequatur eligendi impedit incidunt necessitatibus possimus quis saepe sunt totam": {
+      "": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid commodi consequatur eligendi impedit incidunt necessitatibus possimus quis saepe sunt totam."
+    }
+  }
 }

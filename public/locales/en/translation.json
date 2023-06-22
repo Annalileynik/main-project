@@ -7,5 +7,11 @@
   "Refresh the page": "Refresh the page",
   "throw error": "throw error",
   "Toggle": "Toggle",
-  "short language": "En"
+  "short language": "En",
+  "Login": "Login",
+  "Lorem ipsum dolor sit amet, consectetur adipisicing elit": {
+    " Aliquid commodi consequatur eligendi impedit incidunt necessitatibus possimus quis saepe sunt totam": {
+      "": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid commodi consequatur eligendi impedit incidunt necessitatibus possimus quis saepe sunt totam."
+    }
+  }
 }

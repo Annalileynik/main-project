@@ -1,6 +1,12 @@
 {
   "ABOUT SITE": "ABOUT SITE",
   "An unexpected error": "An unexpected error",
+  "Login": "Login",
+  "Lorem ipsum dolor sit amet, consectetur adipisicing elit": {
+    " Aliquid commodi consequatur eligendi impedit incidunt necessitatibus possimus quis saepe sunt totam": {
+      "": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid commodi consequatur eligendi impedit incidunt necessitatibus possimus quis saepe sunt totam."
+    }
+  },
   "MAIN PAGE": "MAIN PAGE",
   "Main": "Main",
   "Page not found": "Page not found",
@@ -8,5 +14,6 @@
   "Toggle": "Toggle",
   "language": "language",
   "throw error": "throw error",
+  "Войти": "Войти",
   "О сайте": "О сайте"
 }
