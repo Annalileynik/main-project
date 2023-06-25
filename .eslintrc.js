@@ -14,6 +14,7 @@ module.exports = {
         ecmaFeatures: {
             jsx: true,
         },
+        project: ['./tsconfig.json'],
         ecmaVersion: 'latest',
         sourceType: 'module',
     },
@@ -24,6 +25,7 @@ module.exports = {
         'react-hooks',
     ],
     rules: {
+        'linebreak-style': ['error', process.platform === 'win32' ? 'windows' : 'unix'],
         'react/jsx-indent': [2, 4],
         'react/jsx-indent-props': [2, 4],
         indent: [2, 4],
