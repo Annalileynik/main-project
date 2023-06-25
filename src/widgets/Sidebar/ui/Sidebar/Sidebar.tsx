@@ -45,7 +45,7 @@ export function Sidebar({ className }: SidebarProps) {
                 >
                     <MainIcon className={cls.icon} />
                     <span className={cls.link}>
-                        {t('ABOUT SITE')}
+                         {t('MAIN PAGE')}
                     </span>
                 </AppLink>
                 <AppLink
@@ -55,7 +55,7 @@ export function Sidebar({ className }: SidebarProps) {
                 >
                     <AboutIcon className={cls.icon} />
                     <span className={cls.link}>
-                        {t('MAIN PAGE')}
+                        {t('ABOUT SITE')}
                     </span>
                 </AppLink>
             </div>
