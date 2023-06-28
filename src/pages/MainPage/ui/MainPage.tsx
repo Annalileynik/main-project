@@ -1,13 +1,19 @@
-import React from 'react';
-import {useTranslation} from 'react-i18next';
+import React, { useState } from 'react';
+import { useTranslation } from 'react-i18next';
 
-function MainPage() {
-    const {t} = useTranslation('main');
+const MainPage = () => {
+    const { t } = useTranslation();
+    const [value, setValue] = useState('');
+
+    const onChange = (val: string) => {
+        setValue(val);
+    };
+
     return (
         <div>
             {t('MAIN PAGE')}
         </div>
     );
-}
+};
 
 export default MainPage;

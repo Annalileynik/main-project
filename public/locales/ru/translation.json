@@ -9,11 +9,8 @@
   "Toggle": "Переключатель",
   "short language": "Ru",
   "Login": "Войти",
-  "Lorem ipsum dolor sit amet, consectetur adipisicing elit": {
-    " Aliquid commodi consequatur eligendi impedit incidunt necessitatibus possimus quis saepe sunt totam": {
-      "": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid commodi consequatur eligendi impedit incidunt necessitatibus possimus quis saepe sunt totam."
-    },
-    "increment": "увеличение",
-    "decrement":"уменьшение"
-  }
+  "increment": "увеличение",
+  "decrement":"уменьшение",
+  "Enter username": "Введите username",
+  "Enter password": "Введите пароль"
 }
